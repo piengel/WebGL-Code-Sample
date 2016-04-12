@@ -5,6 +5,7 @@
 WebGL Code Sample provides a high level overview of the power of Web Graphics Library. The app allows for users to draw with their mouse and through the usage of various colors. Also, it gives users the ability to clear the canvas and start over again.
 
 ## Code Example
+For colors, enter a value betwen 0.0 and 1.0 for RGBA (Red, Green, Blue, Alpha)
 
     var colors = [
       vec4(0.0, 0.0, 0.0, 1.0), // black
